@@ -199,3 +199,10 @@ app_license = "MIT"
 # auth_hooks = [
 #	"contracting.auth.validate"
 # ]
+
+
+fixtures = [
+    {"dt": "Custom Field", "filters": {"module": "contracting"}},
+    {"dt": "Property Setter", "filters": {"module": "contracting"}},
+  
+]
