@@ -14,7 +14,7 @@ frappe.ui.form.on("Contract Document", {
 			"Sales Invoice": "Sales Invoice",
 			"Material Request": "Material Request",
 			"Purchase Order": "Purchase Order",
-			Project: "Project",
+			"Project": "Project",
 			"Payment Entry": "Payment",
 			"Work Order": "Work Order",
 		};
